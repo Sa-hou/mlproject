@@ -48,6 +48,11 @@ def clean_data(data):
     return data
 
 
+def try_me():
+    return "Have a great day"
+
+
+
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
     import mlp
